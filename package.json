@@ -1,0 +1,23 @@
+{
+  "name": "vite-vant",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vant": "^3.4.5",
+    "vue": "^3.2.25",
+    "vue-router": "^4.0.12",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.2.0",
+    "consola": "^2.15.3",
+    "postcss-px-to-viewport": "^1.1.1",
+    "vite": "^2.8.0",
+    "vite-plugin-style-import": "^2.0.0"
+  }
+}
